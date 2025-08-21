@@ -51,3 +51,4 @@ Units sold, discounts, and profit values
 📈 Outcome:
 The analysis provides clear insights into customer behavior, product performance,
 and sales trends. The dashboard enables stakeholders to make informed, data-backed business decisions.
+https://github.com/iqrabatool1/Ecommerce-Sale-Analysis/blob/main/Screenshot%202025-08-21%20173128.png
