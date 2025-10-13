@@ -1,4 +1,4 @@
-E-commerce Sales Analysis
+E-commerce Sales Analysis  /Data Analytics
 
 Project Overview:
 This project focuses on analyzing an E-commerce sales dataset (sourced from Kaggle)
