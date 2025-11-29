@@ -79,4 +79,5 @@ The analysis provides **clear insights into customer behavior, product performan
 The dashboard enables stakeholders to make **informed, data-backed business decisions**.
 
 **Dashboard Screenshot:**  
-![E-commerce Dashboard](https://github.com/iqrabatool1/Ecommerce-Sale-Analysis/blob/main/Screenshot%202025-08-21%20173128.png)
+<img src="https://github.com/iqrabatool1/Ecommerce-Sale-Analysis/raw/main/Screenshot%202025-08-21%20173128.png" width="600">
+
