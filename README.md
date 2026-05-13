@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis / Data Analytics
+# E-commerce Sales Analysis 
 
 This project focuses on analyzing an **E-commerce sales dataset** (sourced from Kaggle) using **Excel, SQL, Python, and Power BI**.  
 The objective was to uncover patterns in sales, customer behavior, product performance, and profitability to support **data-driven business decisions**.
@@ -79,5 +79,5 @@ The analysis provides **clear insights into customer behavior, product performan
 The dashboard enables stakeholders to make **informed, data-backed business decisions**.
 
 **Dashboard Screenshot:**  
-<img src="https://github.com/iqrabatool1/Ecommerce-Sale-Analysis/raw/main/Screenshot%202025-08-21%20173128.png" width="600">
+<img src="https://github.com/iqrabatool1/Ecommerce-Sale-Analysis/blob/main/Screenshot%202026-05-13%20222243.png" width="600">
 
